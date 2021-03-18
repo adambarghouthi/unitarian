@@ -16,21 +16,25 @@ module.exports = {
           900: "#151719",
         },
         purple: {
-          100: "#5FAD56",
-          200: "#5FAD56",
-          300: "#5FAD56",
-          400: "#5FAD56",
-          500: "#5FAD56",
+          100: "#D7EBD6",
+          200: "#BDDEBA",
+          300: "#A3D19F",
+          400: "#88C383",
+          500: "#6EB668",
           600: "#5FAD56",
-          700: "#5FAD56",
-          800: "#5FAD56",
-          900: "#5FAD56",
+          700: "#58A550",
+          800: "#519749",
+          900: "#498A42",
         },
       },
       spacing: {
         "9/16": "56.25%",
         "3/4": "75%",
         "1/1": "100%",
+      },
+      fontFamily: {
+        inter: ["Inter", "sans-serif"],
+        "architects-daughter": ['"Architects Daughter"', "sans-serif"],
       },
       fontSize: {
         xs: "0.75rem",
@@ -46,6 +50,14 @@ module.exports = {
       },
       inset: {
         full: "100%",
+      },
+      letterSpacing: {
+        tighter: "-0.02em",
+        tight: "-0.01em",
+        normal: "0",
+        wide: "0.01em",
+        wider: "0.02em",
+        widest: "0.4em",
       },
       minWidth: {
         10: "2.5rem",

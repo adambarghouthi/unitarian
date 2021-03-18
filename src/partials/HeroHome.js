@@ -26,8 +26,8 @@ function HeroHome() {
                 y2="577.921"
                 gradientUnits="userSpaceOnUse"
               >
-                <stop stopColor="#5D5DFF" stopOpacity=".01" />
-                <stop offset="1" stopColor="#5D5DFF" stopOpacity=".32" />
+                <stop stopColor="#5FAD56" stopOpacity=".01" />
+                <stop offset="1" stopColor="#5FAD56" stopOpacity=".32" />
               </linearGradient>
             </defs>
             <path
