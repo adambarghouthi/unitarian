@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <div className="flex flex-col min-h-screen overflow-hidden">
       <Head>
-        <title>Unitarian - Borrow Capital at Fixed Rates</title>
+        <title>Caasflow - Funding for ecommerce business</title>
       </Head>
       {/*  Site header */}
       <Header />
@@ -30,7 +30,6 @@ export default function Home() {
         {/*  Page sections */}
         <HeroHome />
         <Process />
-        <Tabs />
         <Newsletter />
       </main>
 

@@ -13,8 +13,8 @@ function Process() {
               data-aos="fade-up"
               data-aos-delay="200"
             >
-              Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
-              officia deserunt mollit laborum — semper quis lectus nulla.
+              Quickly receive cash in your bank account and repay as you get
+              paid.
             </p>
           </div>
 
@@ -63,11 +63,11 @@ function Process() {
                 />
               </svg>
               <h4 className="h4 mb-2">
-                <span className="text-gray-400">1</span>. Integrate ecommerce
+                <span className="text-gray-400">1</span>. Connect your store
               </h4>
               <p className="text-lg text-gray-400 text-center">
-                Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur.
+                Simply integrate your ecommerce provider with Caasflow and
+                receive funding offers.
               </p>
             </div>
 
@@ -118,8 +118,7 @@ function Process() {
                 <span className="text-gray-400">2</span>. Get funding quickly
               </h4>
               <p className="text-lg text-gray-400 text-center">
-                Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur.
+                Add your bank account and receive the funding within a few days.
               </p>
             </div>
 
@@ -159,8 +158,8 @@ function Process() {
                 <span className="text-gray-400">3</span>. Repay from sales
               </h4>
               <p className="text-lg text-gray-400 text-center">
-                Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur.
+                Automatically repay the loan with a fixed percentage of your
+                daily sales until the total amount is repaid.
               </p>
             </div>
           </div>

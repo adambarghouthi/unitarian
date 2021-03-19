@@ -7,6 +7,7 @@ class MyDocument extends Document {
         <Head>
           <link rel="icon" href="/favicon.ico" />
           <meta name="theme-color" content="#000000" />
+          <script src="https://embed.typeform.com/embed.js"></script>
         </Head>
         <body className="font-inter antialiased bg-gray-900 text-gray-200 tracking-tight">
           <Main />

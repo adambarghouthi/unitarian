@@ -44,31 +44,22 @@ function HeroHome() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
             <h1 className="h1 mb-4" data-aos="fade-up">
-              Get funding to grow your business
+              Get funding for your online business
             </h1>
             <p
               className="text-xl text-gray-400 mb-8"
               data-aos="fade-up"
               data-aos-delay="200"
             >
-              Our landing page template works on all devices, so you only have
-              to set it up once, and get beautiful results forever.
+              Invest in growth and manage cashflow with interest-free financing.
             </p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">
                 <a
                   className="btn text-white bg-purple-600 hover:bg-purple-700 w-full mb-4 sm:w-auto sm:mb-0"
-                  href="#0"
+                  href="#"
                 >
-                  Start free trial
-                </a>
-              </div>
-              <div data-aos="fade-up" data-aos-delay="600">
-                <a
-                  className="btn text-white bg-gray-700 hover:bg-gray-800 w-full sm:w-auto sm:ml-4"
-                  href="#0"
-                >
-                  Learn more
+                  COMING SOON
                 </a>
               </div>
             </div>
@@ -83,9 +74,9 @@ function HeroHome() {
             >
               <img
                 className="mx-auto"
-                src="https://images.unsplash.com/photo-1563986768817-257bf91c5753?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2170&q=80"
-                width="1024"
-                height="504"
+                src="/assets/cf-home-hero.png"
+                width="819"
+                height="403"
                 alt="Hero"
               />
             </div>
