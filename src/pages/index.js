@@ -4,7 +4,6 @@ import Header from "../partials/Header";
 import PageIllustration from "../partials/PageIllustration";
 import HeroHome from "../partials/HeroHome";
 import Process from "../partials/Process";
-import Tabs from "../partials/Tabs";
 import Newsletter from "../partials/Newsletter";
 import Footer from "../partials/Footer";
 

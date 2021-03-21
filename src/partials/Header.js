@@ -1,6 +1,5 @@
 import React, { useState, useRef, useEffect } from "react";
 import Link from "next/link";
-import Dropdown from "../components/Dropdown";
 
 function Header() {
   const [mobileNavOpen, setMobileNavOpen] = useState(false);

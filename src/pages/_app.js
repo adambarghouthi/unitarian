@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { useRouter } from "next/router";
 
 import "../styles/style.scss";
@@ -8,7 +8,7 @@ import AOS from "aos";
 function MyApp({ Component, pageProps }) {
   const { pathname } = useRouter();
 
-  React.useEffect(() => {
+  useEffect(() => {
     AOS.init({
       once: true,
       disable: "phone",
@@ -17,7 +17,7 @@ function MyApp({ Component, pageProps }) {
     });
   });
 
-  React.useEffect(() => {
+  useEffect(() => {
     document.querySelector("html").style.scrollBehavior = "auto";
     window.scroll({ top: 0 });
     document.querySelector("html").style.scrollBehavior = "";
