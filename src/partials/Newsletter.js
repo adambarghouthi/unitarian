@@ -54,7 +54,7 @@ function Newsletter() {
               <div className="flex flex-col sm:flex-row justify-center max-w-xs mx-auto sm:max-w-md lg:max-w-none">
                 <a
                   className="btn text-purple-600 bg-white shadow"
-                  href="mailto:adambargh@gmail.com,rami@customheats.com"
+                  href="mailto:info@caasflow.com"
                 >
                   Contact us
                 </a>
